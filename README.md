@@ -55,10 +55,10 @@
 
 ## 🛠️ 技术栈
 
-- **开发语言**: Kotlin / Java
-- **UI框架**: Jetpack Compose / XML
-- **数据库**: Room / SQLite
-- **Excel处理**: Apache POI (或其他类似库)
+- **开发语言**: Kotlin
+- **UI框架**: Jetpack Compose
+- **数据库**: Room
+- **Excel处理**: Apache POI 
 
 ## 许可协议
 
